@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-.vscode
+.vscode/
 
-=======
->>>>>>> baf8006b298988bad9267559ef925ed9955e02b5
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

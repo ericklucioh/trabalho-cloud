@@ -2,6 +2,7 @@ Para rodar local criar venv no python 3.12.9
 
 git clone https://github.com/ErickColombo/trabalho-cloud.git
 cd trabalho-cloud
+Copie `.env.example` para `.env` e preencha os dados do banco. Não versione o arquivo `.env`.
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
